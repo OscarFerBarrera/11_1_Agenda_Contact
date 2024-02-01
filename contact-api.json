@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "id": "2",
+      "name": "Nekane",
+      "lastName": "Ereño",
+      "phoneNumber": "123456",
+      "imageUrl": "https://www.shutterstock.com/shutterstock/photos/2315010921/display_1500/stock-vector-enchanting-princess-in-a-fairy-tale-landscape-2315010921.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Iratxe",
+      "lastName": "Ereño",
+      "phoneNumber": "123456",
+      "imageUrl": "https://www.shutterstock.com/shutterstock/photos/2245312199/display_1500/stock-vector-meme-flork-in-love-design-for-valentine-s-day-2245312199.jpg"
+    },
+    {
+      "id": "b3a7",
+      "name": "Oscar",
+      "lastName": "Rivera",
+      "phoneNumber": "61565165",
+      "imageUrl": "https://www.shutterstock.com/shutterstock/photos/1666540216/display_1500/stock-photo-piggy-bank-resting-on-vacation-saving-money-travel-concept-1666540216.jpg"
+    }
+  ]
+}
